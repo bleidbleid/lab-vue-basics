@@ -17,7 +17,11 @@ a {
 
 }
 .peu {
-  background-color: #F3EAE5;
+  /* Created with https://www.css-gradient.com */
+background: #F3EAE5;
+background: -webkit-linear-gradient(bottom, #F3EAE5, #FFFFFF);
+background: -moz-linear-gradient(bottom, #F3EAE5, #FFFFFF);
+background: linear-gradient(to top, #F3EAE5, #FFFFFF);;
   color:#A56DA6;
   padding: 3rem 1.5rem 6rem;
 }
